@@ -17,4 +17,10 @@ function second () {
   third();
 }
 
+function third() {
+  console.log("Now I'm a function!");
+}
+
+
+
 first();
